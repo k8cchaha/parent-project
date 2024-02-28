@@ -1,0 +1,6 @@
+[submodule "classic"]
+	path = classic
+	url = https://github.com/k8cchaha/classic-problems.git
+[submodule "ts"]
+	path = ts
+	url = https://github.com/k8cchaha/ts-lesson-0210.git
